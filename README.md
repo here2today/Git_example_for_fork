@@ -1,1 +1,1 @@
-Jae_hooni의 Fork 연습용 파일입니다.
+2019 Summer Git Study의 Fork 연습용 Repository입니다.
